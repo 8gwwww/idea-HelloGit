@@ -1,7 +1,7 @@
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("hello git");
-        System.out.println("版本切换");
+        System.out.println("好好学习");
 
     }
 }
